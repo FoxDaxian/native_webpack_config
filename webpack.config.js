@@ -31,7 +31,7 @@ var optimizeCssAssetsWebpackPlugin = require("optimize-css-assets-webpack-plugin
 //static资源怎么放
 
 //babel
-// 完成
+// 完成 
 
 //dev
 //有待完善
